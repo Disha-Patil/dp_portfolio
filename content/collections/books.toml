@@ -1,0 +1,17 @@
+[[collection]]
+type = "art"
+img = "assets/avatar.jpg"
+title = "What makes you not a Buddhist"
+link = "https://example.com"
+subtitle = "[American] Ernest Hemingway"
+content = "A gentle introduction to budhist philosophy."
+footer = "⭐︎⭐︎⭐︎⭐︎⭐︎"
+
+[[collection]]
+type = "art"
+img = "assets/avatar.jpg"
+title = "Three Body Problem"
+link = "https://example.com"
+subtitle = "[American] Liu Cixin"
+content = "A page turner and very new experience of a science fiction that spans generations and light years."
+footer = "⭐︎⭐︎⭐︎⭐︎"

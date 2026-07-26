@@ -9,8 +9,9 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Disha Patil"
-id = "dishapatil"
-bio = "developer · writer · curious builder"
+id = ""
+bio = "AI/ML · Theatre"
+avatar = "img/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/dishapatil" },
     { name = "Email", icon = "email", url = "mailto:hello@dishapatil.in" },
@@ -24,4 +25,6 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hi, I’m Disha — a builder who enjoys turning ideas into thoughtful digital experiences.
+I currently work as a Senior AI/ML Engineer, building practical AI/ML and data science solutions across manufacturing, energy, finance, logistics, and pharma.
+
+You can also browse my [collections](/collections/) here.
